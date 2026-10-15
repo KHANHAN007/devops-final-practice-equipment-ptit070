@@ -1,0 +1,15 @@
+.git
+.github
+.gradle
+build
+.idea
+.DS_Store
+student.env
+.env
+*.log
+*.md
+screenshots
+submisstion-content
+nginx
+database
+

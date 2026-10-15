@@ -1,0 +1,9 @@
+.gradle/
+build/
+.idea/
+.DS_Store
+*.log
+.env
+student.env
+*.pem
+id_*
